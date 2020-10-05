@@ -1,2 +1,2 @@
 # wolfram-mathematica
-Insights of Restaurant Reviews from TripAdvisor dataset
+Insights from Restaurant Reviews from TripAdvisor dataset
